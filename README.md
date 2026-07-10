@@ -4,7 +4,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript)](https://www.typescriptlang.org)
 [![Node.js](https://img.shields.io/badge/Node.js-24.x-green?logo=node.js)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-5.2-black?logo=express)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)](https://www.mongodb.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb)](https://www.mongodb.com) 
 [![LangChain](https://img.shields.io/badge/LangChain-1.2.26-blue?logo=langchain)](https://langchain.com)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-blue?logo=google)](https://cloud.google.com/generative-ai)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
