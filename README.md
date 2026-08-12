@@ -106,6 +106,7 @@ Deployment
 
 ### Project Workflow 
 
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/fa79030b308f8df38f8b25875214ac0434588e30/ChatGPT%20Image%20Aug%2012%2C%202026%2C%2001_30_23%20PM.png
 
 ### Frontend
 
