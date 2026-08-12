@@ -117,7 +117,8 @@ npm start
 
 ### 🏠 Landing Page / Home Page
 
-![image alt].(https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/731782112ed4660b826ade0894932599d4aeccd9/Screenshot%202026-08-12%20at%2012-12-57%20EduReach%20College.png)
+[![image alt].(https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/731782112ed4660b826ade0894932599d4aeccd9/Screenshot%202026-08-12%20at%2012-12-57%20EduReach%20College.png)](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/1868091c4e18e223afe3ac25d051ebc1b568ab2a/Screenshot%202026-08-12%20at%2012-12-57%20EduReach%20College.png
+)
 
 
 
@@ -128,8 +129,9 @@ The main landing page introduces EduReach College with a modern hero section, co
 
 ### 🔐 User Login Page
 
-![Login Page](screenshots/login-page.png)
-
+[![Login Page](screenshots/login-page.png)
+](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/1868091c4e18e223afe3ac25d051ebc1b568ab2a/Screenshot%202026-08-12%20at%2012-12-57%20EduReach%20College.png
+)
 **Description:**
 Secure login interface allowing students and visitors to access personalized features and college information.
 
@@ -137,7 +139,9 @@ Secure login interface allowing students and visitors to access personalized fea
 
 ### 📝 User Registration Page
 
-![Registration Page](screenshots/signup-page.png)
+[![Registration Page](screenshots/signup-page.png)](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/5b102c6f72a23bffc23c0d74c8f6b3328bf71ed5/Screenshot%202026-08-12%20at%2012-14-27%20EduReach%20College.png
+
+)
 
 **Description:**
 New user registration portal with account creation, email verification, and profile setup options.
