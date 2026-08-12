@@ -81,7 +81,7 @@ https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/9ca716b4a57
 
 ## 🛠️ Tech Stack
 
-                 🛠️ EduReach Technology Stack
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/50ea2a88a27f85b97237ae8e0c2a5e53aea4d252/ChatGPT%20Image%20Aug%2012%2C%202026%2C%2001_27_47%20PM.png
 
 Frontend
 ├── React.js
@@ -103,6 +103,9 @@ Development Tools
 Deployment
 ├── Vercel
 └── Netlify
+
+### Project Workflow 
+
 
 ### Frontend
 
