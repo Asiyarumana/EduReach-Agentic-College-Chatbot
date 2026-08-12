@@ -117,7 +117,8 @@ npm start
 
 ### 🏠 Landing Page / Home Page
 
-![Landing Page](screenshots/home-page.png)
+![Uploading Screenshot 2026-08-12 at 12-12-57 EduReach College.png…]()
+
 
 **Description:**
 The main landing page introduces EduReach College with a modern hero section, college highlights, placement statistics, and quick navigation to academic programs.
