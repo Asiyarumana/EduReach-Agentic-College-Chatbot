@@ -179,7 +179,8 @@ Showcases experienced faculty members, department heads, academic achievements, 
 
 ### 💼 Placement Highlights Dashboard
 
-![Placements Page](screenshots/placements-page.png)
+[![Placements Page](screenshots/placements-page.png)](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/c498e549f1629d12c9e13b79e52e9f73a21661ce/Screenshot%202026-08-12%20at%2012-16-38%20EduReach%20College.png
+)
 
 **Description:**
 Interactive placement analytics displaying department-wise average packages, top recruiters, placement statistics, and hiring trends.
@@ -188,8 +189,9 @@ Interactive placement analytics displaying department-wise average packages, top
 
 ### 🤖 AI-Powered EduReach Chatbot
 
-![AI Chatbot](screenshots/chatbot-page.png)
-
+[![AI Chatbot](screenshots/chatbot-page.png)
+](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/dbfcd55543287be4b7272c8572d2858c63bba135/Screenshot%202026-08-12%20at%2012-16-58%20EduReach%20College.png
+)
 **Description:**
 Intelligent AI assistant that answers queries related to admissions, courses, fees, placements, campus facilities, and student support services.
 
@@ -197,8 +199,9 @@ Intelligent AI assistant that answers queries related to admissions, courses, fe
 
 ### 🏢 Top Recruiters Section
 
-![Recruiters Section](screenshots/recruiters-page.png)
-
+[![Recruiters Section](screenshots/recruiters-page.png)
+](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/dbfcd55543287be4b7272c8572d2858c63bba135/Screenshot%202026-08-12%20at%2012-16-58%20EduReach%20College.png
+)
 **Description:**
 Highlights leading recruitment partners including Google, Microsoft, Amazon, Deloitte, Accenture, Infosys, TCS, Wipro, and many more.
 
@@ -206,8 +209,8 @@ Highlights leading recruitment partners including Google, Microsoft, Amazon, Del
 
 ### 📱 Responsive Design
 
-![Responsive Design](screenshots/responsive-design.png)
-
+[![Responsive Design](screenshots/responsive-design.png)
+](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/44f9b21804bf26f1ca8816be4f44f99599575609/Screenshot%202026-08-12%20at%2012-16-09%20EduReach%20College.png)
 **Description:**
 Fully responsive user interface optimized for desktops, tablets, and mobile devices to ensure a seamless user experience across platforms.
 
