@@ -303,6 +303,10 @@ Fully responsive user interface optimized for desktops, tablets, and mobile devi
 
 https://your-project.vercel.app
 
+## Project Video
+
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/984ebf265dfc2154fca86042b1ea7a9d4335848c/WhatsApp%20Video%202026-08-12%20at%201.46.01%20PM.mp4
+
 ### Architecture Diagram
 
 README me add karein:
