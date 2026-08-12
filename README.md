@@ -117,7 +117,8 @@ npm start
 
 ### 🏠 Landing Page / Home Page
 
-![Uploading Screenshot 2026-08-12 at 12-12-57 EduReach College.png…]()
+[![Uploading Screenshot 2026-08-12 at 12-12-57 EduReach College.png…]()](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/731782112ed4660b826ade0894932599d4aeccd9/Screenshot%202026-08-12%20at%2012-12-57%20EduReach%20College.png)
+
 
 
 **Description:**
