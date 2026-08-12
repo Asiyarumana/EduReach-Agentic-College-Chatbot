@@ -150,7 +150,8 @@ New user registration portal with account creation, email verification, and prof
 
 ### ℹ️ About EduReach College
 
-![About Page](screenshots/about-page.png)
+[![About Page](screenshots/about-page.png)](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/31f9c2fad4508324c402bde12515dccc3fb9a2fb/Screenshot%202026-08-12%20at%2012-15-55%20EduReach%20College.png
+)
 
 **Description:**
 Displays institutional overview, campus information, faculty statistics, student-faculty ratio, rankings, and alumni achievements.
@@ -159,7 +160,8 @@ Displays institutional overview, campus information, faculty statistics, student
 
 ### 🎓 Programs Offered
 
-![Programs Page](screenshots/programs-page.png)
+[![Programs Page](screenshots/programs-page.png)](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/5ebeadcfb0a8919f99ca435f541b784114653e07/Screenshot%202026-08-12%20at%2012-16-21%20EduReach%20College.png
+)
 
 **Description:**
 Comprehensive academic programs section featuring B.Tech, M.Tech, MBA, seat availability, and average placement packages.
@@ -168,7 +170,7 @@ Comprehensive academic programs section featuring B.Tech, M.Tech, MBA, seat avai
 
 ### 👨‍🏫 Popular Mentors
 
-![Mentors Page](screenshots/mentors-page.png)
+[![Mentors Page](screenshots/mentors-page.png)](https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/e8e09c917c514cded699a43dc1082347fd8a27cd/Screenshot%202026-08-12%20at%2012-16-21%20EduReach%20College.png)
 
 **Description:**
 Showcases experienced faculty members, department heads, academic achievements, research contributions, and teaching expertise.
