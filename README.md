@@ -431,7 +431,24 @@ What facilities are available on campus?
 The campus provides modern classrooms, laboratories, library facilities, sports infrastructure, hostel accommodation, Wi-Fi connectivity, and student activity centers.
 
 ---
+# 🤖 EduReach Agentic College Chatbot – Live Demonstration & Test Results
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/c9aca081d18bf3e78303a0392d8e5e3a46c4ae23/Screenshot%202026-08-12%20at%2014-01-15%20EduReach%20College.png
 
+
+
+# 🚀 AI Agent Validation, Demonstration & Performance Testing
+
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/c9aca081d18bf3e78303a0392d8e5e3a46c4ae23/Screenshot%202026-08-12%20at%2014-01-52%20EduReach%20College.png
+
+
+
+# 🎯 Working AI Agent Proof – Real User Interactions & Test Cases
+
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/c9aca081d18bf3e78303a0392d8e5e3a46c4ae23/Screenshot%202026-08-12%20at%2014-02-25%20EduReach%20College.png
+
+# 🎯 Working AI Agent Proof – Real User Interactions & Test Cases
+
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/c9aca081d18bf3e78303a0392d8e5e3a46c4ae23/Screenshot%202026-08-12%20at%2014-02-56%20EduReach%20College.png
 ## 📥 Sample Inputs
 
 The chatbot can understand and respond to various student-related queries.
