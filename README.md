@@ -1,6 +1,7 @@
 # 🎓 EduReach Agentic College Chatbot
 
 ## 🎨 Project Banner
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/ca1cde5b2b5e7882ea92de27e5f52d88470b7bb5/ChatGPT%20Image%20Aug%2012%2C%202026%2C%2001_18_58%20PM.png
 
 ### AI-Powered College Information & Admission Assistance Platform
 
