@@ -52,6 +52,9 @@ This project provides an interactive platform that helps users perform tasks eff
 
 ## architecture-diagram.png
 
+https://github.com/Asiyarumana/EduReach-Agentic-College-Chatbot/blob/9ca716b4a57e8ad8ed46babe0dc3422dfba2dd4f/ChatGPT%20Image%20Aug%2012%2C%202026%2C%2001_25_27%20PM%20(1).png
+
+
                     👨‍🎓 Student/User
                             │
                             ▼
@@ -74,6 +77,7 @@ This project provides an interactive platform that helps users perform tasks eff
                             │
                             ▼
                   ⚡ Student Assistance
+
 
 ## 🛠️ Tech Stack
 
